@@ -1,0 +1,53 @@
+html,
+body {
+    background-color: #F5F2F2;
+}
+
+.navbar-brand {
+    color: #3b3b3b !important;
+    font-weight: 600 !important;
+}
+
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid #d4d4d4;
+}
+
+.navbar-header {
+    padding: 8px 0;
+}
+
+.navbar-nav {
+    margin: 0px
+}
+
+.navbar-collapse ul li {
+    padding: 4px 0
+}
+
+.navbar-collapse ul li:not(:last-child) {
+    border-bottom: 1px solid #e7e7e7 !important
+}
+
+article {
+    padding: 10px;
+    color: #3b3b3b
+}
+
+article .heading {
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+article footer {
+    margin-top: 10px
+}
+
+.menu {
+    margin: 0 10px
+}
+
+section,
+.title {
+    margin-top: 25px;
+}
